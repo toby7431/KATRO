@@ -1,0 +1,78 @@
+/*parite joueur 1*/
+.player1 {
+    height: 275px;
+    width: 1100px;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    background-color: rgb(0, 1, 36);
+}
+
+/*partie joueur 2*/
+.player2 {
+    height: 275px;
+    width: 1100px;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    background-color: rgb(0, 1, 36);
+}
+
+/* distinction des lignes des joueurs*/
+.divisseur {
+    width: 100px;
+    height: 3px;
+    background: #fff;
+    margin-left: 45%;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+/*ligne des joueurs*/
+.ligne1 {
+    height: 137px;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
+
+.ligne2 {
+    height: 137px;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
+
+/*----Cases des pions----*/
+.rondCases {
+    cursor: pointer;
+    width: 124px;
+    height: 124px;
+    background-color: whitesmoke;
+    border-radius: 62px;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
+
+/*----Pions----*/
+.pions {
+    width: 124px;
+    height: 124px;
+    background-color: whitesmoke;
+    border-radius: 62px;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
+
+.pion {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: black;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.rondCases.clicked div {
+    background-color: whitesmoke;
+}

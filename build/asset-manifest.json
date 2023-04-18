@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/katro/static/css/main.abaa42cd.css",
+    "main.js": "/katro/static/js/main.cfd5661e.js",
+    "static/js/787.d6332989.chunk.js": "/katro/static/js/787.d6332989.chunk.js",
+    "index.html": "/katro/index.html",
+    "main.abaa42cd.css.map": "/katro/static/css/main.abaa42cd.css.map",
+    "main.cfd5661e.js.map": "/katro/static/js/main.cfd5661e.js.map",
+    "787.d6332989.chunk.js.map": "/katro/static/js/787.d6332989.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abaa42cd.css",
+    "static/js/main.cfd5661e.js"
+  ]
+}
